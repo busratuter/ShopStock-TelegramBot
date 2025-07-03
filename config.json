@@ -1,0 +1,23 @@
+{
+    "urls": [
+        {
+            "store": "bershka",
+            "url": "https://www.bershka.com/tr/baskılı-askılı-bluz-c0p183212328.html?colorId=700"
+        },
+        {
+            "store": "bershka",
+            "url": "https://www.bershka.com/tr/saplı-distressed-bowling-çanta-c0p177309999.html?colorId=742"
+        },
+        {
+            "store": "zara",
+            "url": "https://www.zara.com/tr/tr/z1975-genis-paca-orta-bel-yan-dikisli-jean-p06164103.html?v1=441123665"
+        },
+        {
+            "store": "zara",
+            "url": "https://www.zara.com/tr/tr/cift-katli-crop-top-p04174334.html?v1=448697414"
+        }
+    ],
+    "sizes_to_check": ["XS","S", "M", "L", "36", "38"],
+    "sleep_min_seconds": 180,  
+    "sleep_max_seconds": 240
+}
